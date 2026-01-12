@@ -1,0 +1,7 @@
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.csproj.AssemblyReference.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.AssemblyInfoInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.AssemblyInfo.cs
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\desktop\dev\.net\Agenda\Api.API\obj\Debug\net9.0\Api.API.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\bin\Debug\net9.0\Api.Authentication.deps.json
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\bin\Debug\net9.0\Api.Authentication.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\bin\Debug\net9.0\Api.Authentication.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\bin\Debug\net9.0\Api.Domain.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\bin\Debug\net9.0\Api.Domain.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.csproj.AssemblyReference.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.AssemblyInfoInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.AssemblyInfo.cs
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Auth.B1724F98.Up2Date
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\refint\Api.Authentication.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\Api.Authentication.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Authentication\obj\Debug\net9.0\ref\Api.Authentication.dll

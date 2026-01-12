@@ -1,0 +1,17 @@
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.AssemblyInfo.cs
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\bin\Debug\net9.0\Api.Infrastructure.deps.json
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\bin\Debug\net9.0\Api.Infrastructure.runtimeconfig.json
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\bin\Debug\net9.0\Api.Infrastructure.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\bin\Debug\net9.0\Api.Infrastructure.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\bin\Debug\net9.0\Api.Domain.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\bin\Debug\net9.0\Api.Domain.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infr.439C6BD2.Up2Date
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\refint\Api.Infrastructure.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\Api.Infrastructure.genruntimeconfig.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Infrastructure\obj\Debug\net9.0\ref\Api.Infrastructure.dll

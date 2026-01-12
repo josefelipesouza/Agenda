@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dev\.net\Agenda\Api.Domain\bin\Debug\net9.0\Api.Domain.deps.json
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\bin\Debug\net9.0\Api.Domain.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\bin\Debug\net9.0\Api.Domain.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\Api.Domain.AssemblyInfo.cs
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\Api.Domain.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\refint\Api.Domain.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\Api.Domain.pdb
+C:\Users\User\Desktop\dev\.net\Agenda\Api.Domain\obj\Debug\net9.0\ref\Api.Domain.dll

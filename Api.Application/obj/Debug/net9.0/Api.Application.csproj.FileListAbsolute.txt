@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dev\.net\Agenda\Api.Application\bin\Debug\net9.0\Api.Application.deps.json
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\bin\Debug\net9.0\Api.Application.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\bin\Debug\net9.0\Api.Application.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\bin\Debug\net9.0\Api.Domain.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\bin\Debug\net9.0\Api.Domain.pdb
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.csproj.AssemblyReference.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.AssemblyInfoInputs.cache
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.AssemblyInfo.cs
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Appl.4041F17A.Up2Date
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\refint\Api.Application.dll
+C:\Users\User\desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\Api.Application.pdb
+C:\Users\User\Desktop\dev\.net\Agenda\Api.Application\obj\Debug\net9.0\ref\Api.Application.dll
